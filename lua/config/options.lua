@@ -9,7 +9,7 @@ local opt = vim.opt
 opt.tabstop = 4
 opt.shiftwidth = 4
 opt.expandtab = true
-opt.autoindent = true
+opt.smartindent = true
 
 -- 主键
 vim.g.maplocalleader = " "
